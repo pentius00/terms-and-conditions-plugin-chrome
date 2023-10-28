@@ -1,1 +1,59 @@
 # terms-and-conditions-plugin-chrome
+
+
+
+## Overview
+
+Terms Summarizer is a Chrome extension designed to enhance your online browsing experience by providing quick and concise summaries of terms and conditions or any lengthy documents you encounter. This tool is perfect for anyone who needs to understand complex information quickly without sifting through dense legal jargon.
+
+## Features
+
+- **Instant Summarization:** Generate a summary of any terms and conditions, privacy policies, or lengthy online document with one click.
+- **Convenience at Your Fingertips:** The summary appears directly within the browser, eliminating the need for additional navigation or pop-up windows.
+- **Stay Updated:** Refresh the summary easily whenever you revisit or reload a page to ensure you're viewing the most current information.
+
+## How to Install
+
+Follow these steps to install the extension manually in your Chrome browser:
+
+1. **Download or Clone the Repository**
+git clone https://github.com/pentius00/terms-and-conditions-plugin-chrome
+
+markdown
+Copy code
+
+2. **Open Chrome Browser**
+ - Navigate to `chrome://extensions/`.
+ - Ensure the **Developer mode** checkbox in the top right-hand corner is checked.
+
+3. **Load the Extension**
+ - Click on the **Load unpacked** button.
+ - Select the directory containing your unpacked extension.
+
+Congratulations! The Terms Summarizer extension should now be available for use in your Chrome browser.
+
+## How to Use
+
+1. **Navigate to a Website**
+Simply browse to a website with the terms and conditions or any document you wish to summarize.
+
+2. **Click on the Extension's Icon**
+This action will prompt the extension to fetch and display a summarized version of the document directly within your browser.
+
+3. **Refresh as Needed**
+If you suspect the content has changed or you've navigated to a new document, hit the refresh button in the extension popup to obtain a new summary.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your_username/terms-summarizer-extension/issues) if you want to contribute.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+https://github.com/pentius00/terms-and-conditions-plugin-chrome
+---
+
+Remember to replace placeholders such as `your_username` and any specific links with your ac
