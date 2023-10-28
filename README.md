@@ -54,6 +54,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 https://github.com/pentius00/terms-and-conditions-plugin-chrome
----
-
-Remember to replace placeholders such as `your_username` and any specific links with your ac
